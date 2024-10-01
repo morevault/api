@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault/api/auth/azure
+module github.com/morevault/api/auth/azure
 
 go 1.21
 

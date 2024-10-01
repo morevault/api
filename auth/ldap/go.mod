@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault/api/auth/ldap
+module github.com/morevault/api/auth/ldap
 
 go 1.21
 

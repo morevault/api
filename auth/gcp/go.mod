@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault/api/auth/gcp
+module github.com/morevault/api/auth/gcp
 
 go 1.21
 

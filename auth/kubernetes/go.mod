@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault/api/auth/kubernetes
+module github.com/morevault/api/auth/kubernetes
 
 go 1.21
 

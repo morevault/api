@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault/api/auth/userpass
+module github.com/morevault/api/auth/userpass
 
 go 1.21
 

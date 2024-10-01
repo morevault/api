@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault/api/auth/approle
+module github.com/morevault/api/auth/approle
 
 go 1.21
 
