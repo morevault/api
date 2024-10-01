@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hashicorp/vault/api"
+	"github.com/morevault/api"
 )
 
 // testHTTPServer creates a test HTTP server that handles requests until
